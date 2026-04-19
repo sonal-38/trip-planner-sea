@@ -87,6 +87,9 @@ PAGE_CSS = """
         margin-bottom: 1rem;
     }
     .panel h2 {
+        # Trivial change for git push
+        .result-box {
+            background: linear-gradient(180deg, rgba(15, 154, 168, 0.06), rgba(15, 154, 168, 0.02));
         margin: 0.25rem 0 0.15rem;
         text-align: center;
         font-size: 1.35rem;
