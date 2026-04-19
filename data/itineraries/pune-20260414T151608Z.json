@@ -1,0 +1,37 @@
+{
+  "destination": "pune",
+  "month": "January",
+  "duration": 3,
+  "food_preference": "vegetarian",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: pune rhythm",
+      "morning": "Start with a priority sight or neighborhood walk in pune.",
+      "afternoon": "Use a slower lunch break and one flexible activity.",
+      "evening": "End with a dinner choice that matches vegetarian preferences."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: pune rhythm",
+      "morning": "Start with a priority sight or neighborhood walk in pune.",
+      "afternoon": "Use a slower lunch break and one flexible activity.",
+      "evening": "End with a dinner choice that matches vegetarian preferences."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: pune rhythm",
+      "morning": "Start with a priority sight or neighborhood walk in pune.",
+      "afternoon": "Use a slower lunch break and one flexible activity.",
+      "evening": "End with a dinner choice that matches vegetarian preferences."
+    }
+  ],
+  "highlights": [
+    "Best fit: 3 days for first-time exploration.",
+    "Month note: Cool, dry, and ideal for outdoor plans.",
+    "Traveler fit: Couple trip planning.",
+    "Choose a stay close to the main sightseeing cluster to reduce transfers.",
+    "Mix local food stops with one signature meal per day.",
+    "Keep one light afternoon block for rest or spontaneous plans."
+  ]
+}
